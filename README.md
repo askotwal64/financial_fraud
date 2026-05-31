@@ -35,5 +35,6 @@ Dataset → Kafka Producer → Kafka Topic → Kafka Consumer → ML Model → R
 
 ## Authors
 
+Ashish Singh Kotwal
 Karthikadevi
-Ashish
+
